@@ -1,0 +1,24 @@
+# Maxfiy ma'lumotlar
+.env
+
+# Ma'lumotlar bazasi (local)
+*.db
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE fayllar
+.idea/
+.vscode/
+*.code-workspace
+
+# Log fayllar
+*.log
